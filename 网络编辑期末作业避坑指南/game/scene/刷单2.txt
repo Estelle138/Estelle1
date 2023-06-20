@@ -1,0 +1,18 @@
+changeBg:大学1.png;
+setTextbox:on;
+changeFigure:学生立绘2-开始上钩.png -left;
+周一:先充值300块试试运气 -Game Selection Sound_耳聆网.wav;
+intro:2小时过去后|叮咚~ 支付宝到账330元|赵卓：继续充值500元;
+changeFigure:诈骗犯立绘1.png -right;
+周一:你这个账号有问题，需要了被锁住了。需要继续500元进行账户解冻 -Game Selection Sound_耳聆网.wav;
+赵卓:什么！好不容易可以提现了，我马上充值。 -Game Selection Sound_耳聆网.wav;
+intro:赵卓充值后发现，依旧无法使用提现功能;
+changeFigure:学生立绘4-疑惑.png -left -next;
+赵卓:为什么还是不能提现，我的钱怎么办？ -Game Selection Sound_耳聆网.wav;
+周一:……………（没有任何回答） -Game Selection Sound_耳聆网.wav;
+changeFigure: -next;
+changeFigure:学生立绘5-发现被骗.png -left -next;
+赵卓:啊啊啊啊我的八百块（慌张~）;
+changeFigure: -left;
+changeFigure: -right;
+changeScene:游戏诈骗.txt

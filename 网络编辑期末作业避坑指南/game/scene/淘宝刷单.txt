@@ -1,0 +1,17 @@
+intro:;
+changeFigure:学生立绘2-开始上钩.png -left -next;
+changeBg:大学1.png;
+setTextbox:on;
+赵卓:QQ群里说的刷单安全吗？我要不试试，哎呀好纠结 -Game Selection Sound_耳聆网.wav;
+changeFigure:诈骗犯立绘1.png -right;
+周一:同学，来试试我们这个最惠APP的刷单返现的活动吧！快速返现，没有任何风险。 -Game Selection Sound_耳聆网.wav;
+赵卓:（有一点心动）这个是怎么刷单返现，具体是怎么做？ -Game Selection Sound_耳聆网.wav;
+周一:很简单，你下载一个最惠APP，通过充值来选择任务，刷单结束后获得积分即可用积分提现。 -Game Selection Sound_耳聆网.wav;
+changeFigure:学生立绘2-开始上钩.png -left;
+赵卓:那我需要充值多少才能赚到钱 -Game Selection Sound_耳聆网.wav;
+周一:自然充值越多，你赚得钱越多 -Game Selection Sound_耳聆网.wav;
+changeFigure: -left -next;
+changeFigure: -right;
+intro:你是否还要继续参加刷单;
+choose:要刷单，想赚钱:选择场景文件|还是算了:选择场景文件;
+changeScene:刷单2.txt

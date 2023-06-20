@@ -1,0 +1,2 @@
+changeBg: 选择背景图片;
+end;

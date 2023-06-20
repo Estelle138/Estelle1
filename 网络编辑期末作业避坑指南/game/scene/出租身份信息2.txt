@@ -1,0 +1,10 @@
+changeBg:大学3.jpg;
+intro:刘一要你提供QQ账号，需要出租的账号越多越好;
+changeFigure:学生立绘1-正常上网.png -left;
+changeFigure:诈骗犯立绘4.png -right;
+赵卓:可是我只有一个QQ账号，怎么办？ -Game Selection Sound_耳聆网.wav;
+刘一:你可以卖点身边人的账号，这也没什么影响？ -Game Selection Sound_耳聆网.wav;
+或者你注册几个手机号码，也不需要你出钱交话费。我给你五五分成，怎么样？ -Game Selection Sound_耳聆网.wav;
+赵卓:（犹豫）行吧，我试试（下定决心！） -Game Selection Sound_耳聆网.wav;
+intro:你开始四处找同学购买QQ账号|随便按照刘一的要求去注册手机号，发给刘一|短短一个月你共计售卖个刘一QQ号码170|这一天警察找到你了;
+changeScene:损失部分资金.txt

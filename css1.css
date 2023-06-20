@@ -1,0 +1,29 @@
+
+h2,h4{
+    text-align: center;
+}
+
+h3{
+    text-align: right;
+}
+
+p{
+    text-indent:2em;
+    font: 16px / 1.75em "宋体";
+}
+
+#title{
+    text-align: start;
+    color:blue;
+}
+
+#photo{
+    text-align: center;
+}
+
+#body{
+    background-image: url(images/5f74aedafb501e1f744bc8d9ed3b480c.jpg);
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: center bottom;
+}

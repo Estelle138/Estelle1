@@ -1,0 +1,9 @@
+; 初始场景，以及特效演示
+bgm:s_Title.mp3;
+intro:你好|欢迎来到《避坑指南》的游戏世界;
+changeBg:蓝黄色卡通宣传微信公众号封面.png -next;
+unlockCg:bg.png -name=良夜; // 解锁CG并赋予名称
+changeFigure:none -left -next;
+setAnimation:enter-from-left -target=fig-left -next;
+
+changeScene:场景一介绍自己.txt

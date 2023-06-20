@@ -1,0 +1,5 @@
+bgm:钢琴旋律118_looperman.wav;
+changeBg:小课堂.png;
+changeFigure:警察立绘2.png;
+警察:如果有人给你一笔钱请你用自己的身份证帮他办理一张银行卡或电话卡，你就同意了。 -Game Selection Sound_耳聆网.wav;
+choose:对:答题4.txt|错:答题4.txt;

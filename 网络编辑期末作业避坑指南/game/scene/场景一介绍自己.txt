@@ -1,0 +1,7 @@
+changeBg:大学1.png;
+changeFigure:警察立绘1.png -left;
+绿枝:你是华清大学一名刚刚入学的小萌新，由于不知道合理规划生活费。父母给的1500元生活费即将见底，你选择 -Game Selection Sound_耳聆网.wav;
+changeFigure:none -left -next;
+setTextbox:hide;
+changeFigure:none -left;
+choose:淘宝刷单:淘宝刷单.txt|出租身份信息:出租身份信息.txt|向父母索取:向父母要钱.txt|奶茶店兼职打工:打工.txt|去贷款:贷款.txt|勤工俭学:勤工俭学.txt;

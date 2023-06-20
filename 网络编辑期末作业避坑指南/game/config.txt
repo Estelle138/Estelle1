@@ -1,0 +1,5 @@
+Game_name:欢迎进入《防骗指南》的游戏世界！;
+Game_key:79efd154890c1fc;
+Package_name:;
+Title_bgm:前.mp3;
+Title_img:蓝黄色卡通宣传微信公众号封面.png;

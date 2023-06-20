@@ -1,0 +1,3 @@
+bgm:钢琴旋律118_looperman.wav;
+changeBg:;
+changeScene:小课堂.txt

@@ -1,0 +1,9 @@
+changeBg:大学3.jpg;
+changeFigure:诈骗犯立绘3.png -right;
+changeFigure:学生立绘1-正常上网.png -left;
+刘一:同学生活费不够花，来试试出租信息赚钱吧 -Game Selection Sound_耳聆网.wav;
+赵卓:（疑惑）出租 ? 出租什么信息，不会有风险吧 -Game Selection Sound_耳聆网.wav;
+刘一:当然不会啦，你出租QQ账号这些，密码和主动权还是掌握在你手中的。 -Game Selection Sound_耳聆网.wav;
+赵卓:对哦，这样来看挺安全的 -Game Selection Sound_耳聆网.wav;
+刘一:那同学要不要试试 -Game Selection Sound_耳聆网.wav;
+choose:要:|算了:恭喜逃避诈骗分子.txt;

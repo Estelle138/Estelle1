@@ -1,0 +1,5 @@
+bgm:钢琴旋律118_looperman.wav;
+changeBg:小课堂.png;
+changeFigure:警察立绘2.png;
+警察:大学生在接到类似诈骗的短信后不应该 -Game Selection Sound_耳聆网.wav;
+choose:A.联系学校老师 :答题5.txt|B.向公安机关报案 :答题5.txt|C.联系发信人:答题5.txt|D.联系父母 :答题5.txt;

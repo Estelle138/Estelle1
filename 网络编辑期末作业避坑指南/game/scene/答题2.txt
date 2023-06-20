@@ -1,0 +1,5 @@
+bgm:钢琴旋律118_looperman.wav;
+changeBg:小课堂.png;
+changeFigure:警察立绘2.png;
+警察:96110电话一定要接，因为这个电话骗子无法冒充。 -Game Selection Sound_耳聆网.wav;
+choose:对 :答题3.txt|错:答题3.txt;

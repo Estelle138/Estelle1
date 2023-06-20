@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>animation属性演示</title>
+  <style>
+    @keyframes slide {
+      from {
+        left: 0;
+        top: 0;
+      }
+
+      50% {
+        left: 50%;
+        top: 50%;
+      }
+
+      to {
+        left: calc(100% - 50px);
+        top: 0;
+      }
+    }
+
+    .stage {
+      background: #ccc;
+      border-radius: 6px;
+      height: 150px;
+      position: relative;
+      width: 500px;
+    }
+
+    .stage:hover .ball {
+      animation: slide 2s cubic-bezier(.87, .05, .17, .99);
+    }
+
+    .ball {
+      background: #2db34a;
+      border-radius: 50%;
+      height: 50px;
+      position: absolute;
+      width: 50px;
+      margin: 0;
+    }
+
+  </style>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+</head>
+
+<body>
+  <div class="stage">
+    <figure class="ball"></figure>
+  </div>
+  <h1 class="animate__animated animate__flipInY">动画作业练习</h1>
+</body>
+
+</html>

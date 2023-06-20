@@ -1,0 +1,18 @@
+bgm:钢琴旋律118_looperman.wav;
+intro:这一天你在宿舍打游戏，有一个突然在游戏中与你加好友;
+changeBg:宿舍1.png;
+changeFigure:诈骗犯立绘2.png -right;
+changeFigure:学生立绘1-正常上网.png -left;
+周晓:hi，兄弟！需要充值游戏豆嘛 -Game Selection Sound_耳聆网.wav;
+赵卓:额，不用了 -Game Selection Sound_耳聆网.wav;
+周晓:别那么快拒绝呀！10块可以充值50个游戏豆，这不比游戏官方便宜。 -Game Selection Sound_耳聆网.wav;
+赵卓:确实比官方便宜，我先试10块钱的。 -Game Selection Sound_耳聆网.wav;
+周晓:好啊！你给我转钱，马上到账 -Game Selection Sound_耳聆网.wav;
+intro:10分钟过后，你的账号到账50个游戏豆|你惊讶于他到账的速度！;
+周晓:怎么样，游戏豆到账没？ -Game Selection Sound_耳聆网.wav;
+赵卓:太快啦，我现在充50元的行不？ -Game Selection Sound_耳聆网.wav;
+周晓:当然可以呀，把你的账号密码发我，我好给您充 -Game Selection Sound_耳聆网.wav;
+changeFigure: -left;
+changeFigure:选择立绘文件 -right;
+intro:你有些犹豫，但是他之前很快就给你充值到账了，你选择暂时相信他|10分钟后你再次登录你的账号|发现你从前的积累的装备全都没有了|这时那个叫周晓的用户也把你拉黑了;
+changeScene:贷款.txt
